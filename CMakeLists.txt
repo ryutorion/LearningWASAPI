@@ -7,3 +7,4 @@ project(
 )
 
 add_subdirectory(001)
+add_subdirectory(002)
